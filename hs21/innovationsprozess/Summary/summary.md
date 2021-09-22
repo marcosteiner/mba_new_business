@@ -25,3 +25,19 @@ Open Innovation Principles
   our own business model
 
 ## Towards the Fifth-generation Innovation Process
+
+![img.png](img.png)
+![img_2.png](img_2.png)
+
+Most important factors time/cost tradeoffs
+* Direct benefits of being first
+* Direct costs of accelerating product development
+* Indirect cost of accelerating product development
+* Influence of timeliness on customer satisfaction
+* Penalties accompanying lateness
+* Short-term versus long-term perspective
+
+
+
+Fragen:
+* Kann man dies alles nicht auf möglichst kurze feedbackzyklen reduzieren?
